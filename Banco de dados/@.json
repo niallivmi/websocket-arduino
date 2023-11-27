@@ -1,0 +1,27 @@
+{
+    "dumper": "mysqlsh Ver 8.0.33 for Win64 on x86_64 - for MySQL 8.0.33 (MySQL Community Server (GPL))",
+    "version": "2.0.1",
+    "origin": "dumpSchemas",
+    "schemas": [
+        "conexao_node"
+    ],
+    "basenames": {
+        "conexao_node": "conexao_node"
+    },
+    "defaultCharacterSet": "utf8mb4",
+    "tzUtc": true,
+    "bytesPerChunk": 64000000,
+    "user": "root",
+    "hostname": "Maria_Julia",
+    "server": "Maria_Julia",
+    "serverVersion": "8.0.33",
+    "binlogFile": "MARIA_JULIA-bin.000007",
+    "binlogPosition": 157,
+    "gtidExecuted": "",
+    "gtidExecutedInconsistent": false,
+    "consistent": true,
+    "partialRevokes": false,
+    "compatibilityOptions": [],
+    "capabilities": [],
+    "begin": "2023-06-03 20:58:28"
+}

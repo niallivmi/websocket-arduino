@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" name="cronometro">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cronômetro</title>
+    <link rel="stylesheet" href="public/lamp.css">
+    <link rel="icon" type="image/png" href="public/Cronometro.png">
+    <script type="text/javascript" src="public/cronometro.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Defina o tempo</h1>
+    </header>
+    <article>
+        <form id="Formulario">
+            <input type="radio" id="BRLigar" name="LigDes" value="1" title="Selecionar para ligar">
+            <label for="BRLigar">Ligar</label>
+
+            <input type="radio" id="BRDesligar" name="LigDes" value="0" title="Selecionar para Desligar">
+            <label for="BRDesligar">Desligar</label>
+
+            <br><br><label for="Hora">Defina um horário</label><br>
+            <input type="time" id="Hora" name="Hora" title="Informe um horário válido"><br><br>
+
+            <input type="submit" id="Enviar" value="Enviar">
+        </form>
+    </article>
+</body>
+</html>

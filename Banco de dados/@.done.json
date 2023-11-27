@@ -1,0 +1,12 @@
+{
+    "end": "2023-06-03 20:58:28",
+    "dataBytes": 578,
+    "tableDataBytes": {
+        "conexao_node": {
+            "registros": 578
+        }
+    },
+    "chunkFileBytes": {
+        "conexao_node@registros@@0.tsv.zst": 578
+    }
+}

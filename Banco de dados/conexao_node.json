@@ -1,0 +1,16 @@
+{
+    "schema": "conexao_node",
+    "includesDdl": true,
+    "includesViewsDdl": true,
+    "includesData": true,
+    "tables": [
+        "registros"
+    ],
+    "views": [],
+    "events": [],
+    "functions": [],
+    "procedures": [],
+    "basenames": {
+        "registros": "conexao_node@registros"
+    }
+}
